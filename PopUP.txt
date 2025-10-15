@@ -1,0 +1,17 @@
+RailOne Captcha Issue Fix (One Time Step)
+Jin users ko RailOne mein captcha login issue aa raha hai, unse request hai ke ye steps follow karein:
+AppData > Local mein jaake "ms-playwright" folder delete karein.
+Update ke baad Data > Install RailOne Driver run karein.
+Iske baad captcha browser easily open hoga, aur koi error nahi aayega.
+
+Important Reminder
+New APK me apko apk Open karna hai login karna hai train search karte hue payment
+tak jana hai fir waha se home par wapas aakar tab apko apna id enter karke
+connection ko connect kar dena hai.
+Agar ap jada form laga rahe hai to har pair ke login par apk ko close and reopen kar le.
+Chahe RailOne Login ho, App ho ya SUP – agar aap Connection APK use kar rahe hain:
+Pehle saare pairs ready karein.
+APK 55 ya 54 par open karein aur connect karein.
+Sabhi pairs ek sath login karein.
+Login Karte wakt khaas khaya rakhe ki apk status connected show kar raha hai.
+Kyuki APK me har 1Minute par connection auto reconnect hota hai.
