@@ -13,7 +13,7 @@ Pehle saare pairs ready karein.
 APK 55 ya 54 par open karein aur connect karein.
 Login Karte wakt khaas khaya rakhe ki apk status connected show kar raha hai.
 Kyuki APK me har 1Minute par connection auto reconnect hota hai.
-
+================================================================
 Filhal software ko puri tarah se offline kar dia gaya hai koi bhi key se open kar sakte
 Hai kisi ko key ke liye payment na kare aur apka keemti paise kisi crack ya farji 
 software me jaya na kare kyyuki site ki condition strickt hai bus wait kare
