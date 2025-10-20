@@ -15,7 +15,5 @@ Login Karte wakt khaas khaya rakhe ki apk status connected show kar raha hai.
 Kyuki APK me har 1Minute par connection auto reconnect hota hai.
 ================================================================
 Filhal software ko puri tarah se offline kar dia gaya hai koi bhi key se open kar sakte
-Hai kisi ko key ke liye payment na kare aur apka keemti paise kisi crack ya farji 
-software me jaya na kare kyyuki site ki condition strickt hai bus wait kare
-Web2 jo other software me Selenium UndetectableChromedriver ki madad se chal raha hai wo 
-hamne kar lia haibus ek baar test karke update turant dedenge
+Web2 Login Update done apne screen resolution ko 100% hi rakhe warna login me issue hoga.
+only 4 window maximum login kare web ke.
