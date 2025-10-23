@@ -7,12 +7,11 @@ Iske baad captcha browser easily open hoga, aur koi error nahi aayega.
 ================================================================
 Ab Ap Web2 me proxy ke jariye se login kar sakte hai yani slot select kare aur login
 usi slot se hoga agar slot select karne me koi popup aata hai to usko yes ya no kar de
-Working Bank:- BHIMUPI ( All Bypass Working ) , SBI , E-wallet Only.
-More gateways jaldi hi update dia jayega.
-Ip ap aisi hi use kare jo web login par proper work kare aur private ip ho.
-Har ip par 2 pair login kare ya 2window login kar sakte hai.
-Agar ap chahe to ek pair ya RailOne login  ya APP login connection app ke through 
-login kare.
-SBI and E-wallet fix kar dia gaya hai use kar sakte hai.
-BhimUpi me aap freecharge ya fir axis ya fir npci ya SBI koi bhi upi save kare
-aur bindass use kare.
+====Working Gateway in Web2 Now======
+BhimUPI ( ALL BYPASS WORKING IN THIS GATEWAY )
+IPAYUPI ( ALL BYPASS WORKING IN THIS GATEWAY )
+OTOPAY  ( ALL BYPASS WORKING IN THIS GATEWAY )
+SBI	( BYPASS )
+IPAYUPIQR ( Bypass By Freecharge UPI )
+E-wallet 
+(Slot and IP Working Properly in WEB2)
