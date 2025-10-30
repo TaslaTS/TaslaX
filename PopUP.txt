@@ -5,6 +5,8 @@ Update ke baad Data > Install RailOne Driver run karein.
 Iske baad captcha browser easily open hoga, aur koi error nahi aayega.
 
 ================================================================
+(( New APK jisne install nahi kia hai wo install kar sakta hai for token generation))
+((Hamesha token generate karne se pehle app ko clear data and clear cache kar le))
 Ab Ap Web2 me proxy ke jariye se login kar sakte hai yani slot select kare aur login
 usi slot se hoga agar slot select karne me koi popup aata hai to usko yes ya no kar de
 ====Working Gateway in Web2 Now======
