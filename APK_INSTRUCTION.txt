@@ -1,48 +1,45 @@
-?? RailOne / App Token – Important Instructions
+RailOne / App Token – Important Instructions
 
-?? Dear Users, niche diye gaye points ko dhyaan se padhiye agar aapko RailOne ya App login sahi tarike se karna hai to:
+Dear Users, niche diye gaye points ko dhyaan se padhiye agar aapko RailOne ya App login sahi tarike se karna hai to:
 
-?? Step 1: Sabse pehle hamare official groups join kar lijiye daily updates ke liye:
-  
-?? **Telegram:** https://t.me/+5Rug06syyls1ZmQx  
-?? **WhatsApp:** https://whatsapp.com/channel/0029Vb7gaz9CRs1uh5coWk2R  
+Step 1: Sabse pehle hamare official groups join kar lijiye daily updates ke liye:
+Telegram: https://t.me/+5Rug06syyls1ZmQx
+WhatsApp: https://whatsapp.com/channel/0029Vb7gaz9CRs1uh5coWk2R
 
-?? **Important (New Proxy Token Instructions):**  
-Ap se request hai ki aap **old token uninstall** karke **new Proxy Token ko QR scan karke download** kar lijiye.  
-Is APK me aap **proxy set** kar sakte hain (koi bhi IP).  
-Ham suggest karenge ki aap **Rotating Residential Proxy** use karein.
+IMPORTANT (New Proxy Token Instructions):
+Ap se request hai ki aap old token uninstall karke new Proxy Token ko QR scan karke download kar lijiye.
+Is APK me aap proxy set kar sakte hain (koi bhi IP).
+Ham suggest karenge ki aap Rotating Residential Proxy use karein.
 
-Proxy set karne ka tarika:  
-   - Proxy Set par click karein  
-   - Proxy ko proper format me paste karein  
-   - “Set” par click karein  
-   - APK ko restart kar lein  
+Proxy set karne ka tarika:
+ - Proxy Set par click karein
+ - Proxy ko proper format me paste karein
+ - Set par click karein
+ - APK ko restart kar lein
 
-Uske baad pehle ki tarah:  
-   1?? Token generate karein  
-   2?? Payment tak jayein  
-   3?? Wapas Home par aakar **Send Token** karein  
-   4?? **Tesla ID enter** karke token send kar dein  
+Uske baad pehle ki tarah:
+ 1. Token generate karein
+ 2. Payment tak jayein
+ 3. Wapas Home par aakar Send Token karein
+ 4. Tesla ID enter karke token send kar dein
 
-? **Preferred Token Timing:**  
-- **AC:** 8:30 AM – 9:00 AM  
-- **Sleeper:** 10:10 AM – 10:30 AM  
-?? **APK ka istemal sirf subah token generate** karne ke liye karein  
-   ? Bina wajah **7–11 AM APK open na karein**  
+Preferred Token Timing:
+ - AC: 8:30 AM – 9:00 AM
+ - Sleeper: 10:10 AM – 10:30 AM
 
-?? Sleeper ke liye **different phone ka use** karein for better results.
+APK ka istemal sirf subah token generate karne ke liye karein.
+Bina wajah 7–11 AM APK open na karein.
 
+Sleeper ke liye different phone ka use karein for better results.
 
-?? Step 2: Important:
-   ? Token software me **Get karne ke baad software restart na karein**  
-   ?? Same generated token se aap **App / Sup / RailOne** me login kar sakte hain  
+Step 2: Important:
+ - Token software me Get karne ke baad software restart na karein
+ - Same generated token se aap App / Sup / RailOne me login kar sakte hain
 
+Step 3: RailOne APK Users:
+ - RailOne APK ka token App / Sup / RailOne sab me work karega.
 
-?? Step 3: RailOne APK Users:
-   ?? RailOne APK ka token **App / Sup / RailOne sab me work** karega.  
+Note: App login poori tarah se token par depend karta hai.
+Har step ko bahut dhyaan se follow karein.
 
-
-?? Note: App login **poori tarah se token par depend** karta hai.  
-Har step ko **bahut dhyaan se follow** karein.  
-
-? Follow these steps carefully for smooth login and token working! ??";
+Follow these steps carefully for smooth login and token working!
