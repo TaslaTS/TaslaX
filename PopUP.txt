@@ -1,6 +1,10 @@
-##Ac Ke tokens generate karne ke baad ap token apk ka data and cache clear karke uninstall kar de
-Fir dobara se fresh ip se install kar le wahi same apk aise karne se jinko sleeper me issue hota 
-hai wo nahi hoga.**
+Web3 Login Update dedia gaya hai ap users isko use kar sakte hai.
+Dhyn rakhe filhal yeh only slot 1 and 2 par hi work karega.
+Working gateway.
+All Bypass UPI (Freecharge , Bhim SBI , AXISUPI , NPCI)
+IPAYUPI , SBI_NB , BHIMUPI , OTOPAY , JIOPAYUPI, HDFC_DC ( FROM jio),
+IPAYUPIQR , E-WALLET.
+YEH SARE GATEWAY KA ISTEMAL KAR SAKTE HAI.
 
 RailOne Captcha Issue Fix (One Time Step)
 Jin users ko RailOne mein captcha login issue aa raha hai, unse request hai ke ye steps follow karein:
