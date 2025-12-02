@@ -6,6 +6,11 @@ Step 1: Sabse pehle hamare official groups join kar lijiye daily updates ke liye
 Telegram: https://t.me/+5Rug06syyls1ZmQx
 WhatsApp: https://whatsapp.com/channel/0029Vb7gaz9CRs1uh5coWk2R
 
+RailOne apk install karne ke liye SAI installer ka istemal kare ap SAI niche diye url se download kar sakte hai.
+https://github.com/Aefyr/SAI
+RailOne se token banaye for better results token asaani se ban jayega apko only payment tak jana hai and
+Niche diye I button ko click karna hai aur apna Tesla Id enter kar dena hai.
+
 IMPORTANT (New Proxy Token Instructions):
 Ap se request hai ki aap old token uninstall karke new Proxy Token ko QR scan karke download kar lijiye.
 Is APK me aap proxy set kar sakte hain (koi bhi IP).
