@@ -1,6 +1,10 @@
 Sup & App Login ab only first yani pehla pair hi login kar sakte hai baki second pair
 me form ke apko ya Web3 ya RailOne login karna hoga.
 
+Agar apne 2 form lagaya hai aur dono form ke 2-2 pair khole hai to pehle pair form ke
+app login and dusre form ka pehla pair Sup Login.
+Baki dono form ke second pair aap ya railone login kare ya Web3 Login.
+
 ##Apke booking sucess screenshot/Video hame share aur apni validity extend karaye##
 
 Web3 Login Update dedia gaya hai ap users isko use kar sakte hai.
@@ -9,12 +13,6 @@ All Bypass UPI (Freecharge , Bhim SBI , AXISUPI , NPCI)
 IPAYUPI , SBI_NB , BHIMUPI , OTOPAY , JIOPAYUPI, HDFC_DC ( FROM jio),
 IPAYUPIQR , E-WALLET.
 YEH SARE GATEWAY KA ISTEMAL KAR SAKTE HAI.
-
-RailOne Captcha Issue Fix (One Time Step)
-Jin users ko RailOne mein captcha login issue aa raha hai, unse request hai ke ye steps follow karein:
-AppData > Local mein jaake "ms-playwright" folder delete karein.
-Update ke baad Data > Install RailOne Driver run karein.
-Iske baad captcha browser easily open hoga, aur koi error nahi aayega.
 
 ================================================================
 RailOne apk se token bana kar form ke kuch window ko RailOne login jarur kare.
