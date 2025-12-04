@@ -1,6 +1,9 @@
+Sup & App Login ab only first yani pehla pair hi login kar sakte hai baki second pair
+me form ke apko ya Web3 ya RailOne login karna hoga.
+
 ##Apke booking sucess screenshot/Video hame share aur apni validity extend karaye##
+
 Web3 Login Update dedia gaya hai ap users isko use kar sakte hai.
-Dhyn rakhe filhal yeh only slot 1 and 2 par hi work karega.
 Working gateway.
 All Bypass UPI (Freecharge , Bhim SBI , AXISUPI , NPCI)
 IPAYUPI , SBI_NB , BHIMUPI , OTOPAY , JIOPAYUPI, HDFC_DC ( FROM jio),
@@ -14,14 +17,10 @@ Update ke baad Data > Install RailOne Driver run karein.
 Iske baad captcha browser easily open hoga, aur koi error nahi aayega.
 
 ================================================================
-((Hamesha token generate karne se pehle app ko clear data and clear cache kar le))
-Ab Ap Web2 me proxy ke jariye se login kar sakte hai yani slot select kare aur login
-usi slot se hoga agar slot select karne me koi popup aata hai to usko yes ya no kar de
-====Working Gateway in Web2 Now======
-BhimUPI ( ALL BYPASS WORKING IN THIS GATEWAY )
-IPAYUPI ( ALL BYPASS WORKING IN THIS GATEWAY )
-OTOPAY  ( ALL BYPASS WORKING IN THIS GATEWAY )
-SBI	( BYPASS )
-IPAYUPIQR ( Bypass By Freecharge UPI )
-E-wallet 
-(Slot and IP Working Properly in WEB2)
+RailOne apk se token bana kar form ke kuch window ko RailOne login jarur kare.
+RailOne login par load kam hai aur error bhi bahot kam hai.
+Ap jada se jada istemal kare aur ham jaldi hi isme HDFC_DC and other gateway add kar denge.
+Working Gateway in railOne:-
+RAILUPI(ALL BYPASS WORKING JUST SAVE UPI AND USE).
+E-WALLET.
+R-WALLET(TOPUP AND USE).
