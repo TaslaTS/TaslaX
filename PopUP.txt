@@ -1,10 +1,9 @@
-Sup & App Login ab only first yani pehla pair hi login kar sakte hai baki second pair
-me form ke apko ya Web3 ya RailOne login karna hoga.
-Agar apne 2 form lagaya hai aur dono form ke 2-2 pair khole hai to pehle pair form ke
-app login and dusre form ka pehla pair Sup Login.
-Baki dono form ke second pair aap ya railone login kare ya Web3 Login.
-
-##Apke booking sucess screenshot/Video hame share aur apni validity extend karaye##
+WEB2 LOGIN KO ADVANCED BASED PAR UPDATE KAR DIA GAYA HAI.
+AB KOI BHI SLOT PAR WEB2 LOGIN KAR SAKTE HAI.
+AUR WEB2 LOGIN MME AP IPAY,OTOPAY ,BHIMUPI AND IPAYUPIQR
+KA ISTEMAL KOI BHI BYPASS UPI SE KAR SAKTE HAI.
+AGAR 100% ACHA RESULT CHAIYYE TO ACHI IP YA HOME IP PAR
+WEB2 KA PAIR LOGIN KARE.
 
 Web3 Login Update dedia gaya hai ap users isko use kar sakte hai.
 Working gateway.
@@ -12,7 +11,6 @@ All Bypass UPI (Freecharge , Bhim SBI , AXISUPI , NPCI)
 IPAYUPI , SBI_NB , BHIMUPI , OTOPAY , JIOPAYUPI, HDFC_DC ( FROM jio),
 IPAYUPIQR , E-WALLET.
 YEH SARE GATEWAY KA ISTEMAL KAR SAKTE HAI.
-
 ================================================================
 RailOne apk se token bana kar form ke kuch window ko RailOne login jarur kare.
 RailOne login par load kam hai aur error bhi bahot kam hai.
