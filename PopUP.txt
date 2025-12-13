@@ -1,21 +1,28 @@
-WEB2 LOGIN KO ADVANCED BASED PAR UPDATE KAR DIA GAYA HAI.
-AB KOI BHI SLOT PAR WEB2 LOGIN KAR SAKTE HAI.
-AUR WEB2 LOGIN MME AP IPAY,OTOPAY ,BHIMUPI AND IPAYUPIQR
-KA ISTEMAL KOI BHI BYPASS UPI SE KAR SAKTE HAI.
-AGAR 100% ACHA RESULT CHAIYYE TO ACHI IP YA HOME IP PAR
-WEB2 KA PAIR LOGIN KARE.
+WEB2 Login update kar diya gaya hai.
+Aap users ise istemal kar sakte hain.
+WEB2 me aap IPAYUPI, OTOPAY, E-WALLET aur BHIMUPI ka istemal kar sakte hain.
+Ek baat ka khaas dhyaan rakhein:
+WEB2 login bilkul last me karein.
+Matlab jab aap App, RailOne, SUP ya WEB3 login complete kar chuke ho,
+tab WEB2 login one by one karein.
+WEB2 login karne par browser open hoga aur saara process auto hoga.
+Jaise hi payment WEB2 pair par jayegi, browser auto close ho jayega.
+WEB2 aap kisi bhi slot se login kar sakte hain.
+1 PC par sirf 4 WEB2 login karein, alag-alag IP se.
 
-Web3 Login Update dedia gaya hai ap users isko use kar sakte hai.
-Working gateway.
-All Bypass UPI (Freecharge , Bhim SBI , AXISUPI , NPCI)
-IPAYUPI , SBI_NB , BHIMUPI , OTOPAY , JIOPAYUPI, HDFC_DC ( FROM jio),
-IPAYUPIQR , E-WALLET.
-YEH SARE GATEWAY KA ISTEMAL KAR SAKTE HAI.
+===============================================================
+WEB3 Login update kar diya gaya hai.
+Users ise use kar sakte hain.
+Working Gateway:
+All Bypass UPI (Freecharge, BHIM SBI, AXIS UPI, NPCI)
+Supported Gateways:
+IPAYUPI, SBI_NB, BHIMUPI, OTOPAY, JIOPAYUPI, HDFC_DC (from Jio),
+IPAYUPIQR, E-WALLET
+In sabhi gateways ka istemal kar sakte hain.
+
 ================================================================
-RailOne apk se token bana kar form ke kuch window ko RailOne login jarur kare.
-RailOne login par load kam hai aur error bhi bahot kam hai.
-Ap jada se jada istemal kare aur ham jaldi hi isme HDFC_DC and other gateway add kar denge.
-Working Gateway in railOne:-
-RAILUPI(ALL BYPASS WORKING JUST SAVE UPI AND USE).
-E-WALLET.
-R-WALLET(TOPUP AND USE).
+
+RailOne APK se token bana kar AB AAP all login me istemal kar sakte hai.
+RAILONE ME AAP ALL UPI KA ISTEMAL AUR SATH HI R-WALLET AND E-WALLET AB
+USE KAR SAKTE HAI.
+R-WALLET (Top-up karein aur use karein)
