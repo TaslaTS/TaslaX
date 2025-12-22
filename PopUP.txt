@@ -1,29 +1,18 @@
-WEB2 LOGIN KE PAIR LOGIN KARNE KE BAAD CURSOR KO TAB TK TOUCH NA KARE JAB TAK PAIR LOGIN NA HO JAYE!!!
-WEB2 Login update kar diya gaya hai.
-Aap users ise istemal kar sakte hain.
-WEB2 me aap IPAYUPI, OTOPAY, E-WALLET aur BHIMUPI ka istemal kar sakte hain.
-Ek baat ka khaas dhyaan rakhein:
-WEB2 login bilkul last me karein.
-Matlab jab aap App, RailOne, SUP ya WEB3 login complete kar chuke ho,
-tab WEB2 login one by one karein.
-WEB2 login karne par browser open hoga aur saara process auto hoga.
-Jaise hi payment WEB2 pair par jayegi, browser auto close ho jayega.
-WEB2 aap kisi bhi slot se login kar sakte hain.
-1 PC par sirf 4 WEB2 login karein, alag-alag IP se.
+Agar aap chahen to RailOne APK se token bana sakte hain aur us token ka use karke App Login, SUP Login aur RailOne Login kar sakte hain.
 
-===============================================================
-WEB3 Login update kar diya gaya hai.
-Users ise use kar sakte hain.
-Working Gateway:
-All Bypass UPI (Freecharge, BHIM SBI, AXIS UPI, NPCI)
-Supported Gateways:
-IPAYUPI, SBI_NB, BHIMUPI, OTOPAY, JIOPAYUPI, HDFC_DC (from Jio),
-IPAYUPIQR, E-WALLET
-In sabhi gateways ka istemal kar sakte hain.
+Yadi aap home PC use kar rahe hain, to sirf WEB2 login ka istemal karein. Aap ek saath sabhi windows me login kar sakte hain aur cursor chhod dijiye — saari process automatically ho jayegi.
 
-================================================================
+VPS me aap APP, SUP aur RailOne ka istemal karein, kyunki WEB login VPS me aksar error deta hai. Isliye is baat ka khaas dhyaan rakhein.
+Home PC par home IP ke saath WEB2 login ka maximum use karein.
 
-RailOne APK se token bana kar AB AAP all login me istemal kar sakte hai.
-RAILONE ME AAP ALL UPI KA ISTEMAL AUR SATH HI R-WALLET AND E-WALLET AB
-USE KAR SAKTE HAI.
-R-WALLET (Top-up karein aur use karein)
+WEB2 aur WEB3, home PC par proper aur achha kaam karte hain.
+
+Sabhi logins me aap kisi bhi slot ka istemal kar sakte hain.
+
+Jaise agar aapke paas home PC hai, to usme IP add karein aur us IP par App Login karein.
+Home IP (Slot 1 aur Slot 2) par maximum 4 pair WEB2 login kar dein.
+Aisa karne se aapka kaam pakka hoga aur booking bhi fast hogi.
+
+Bhim SBI UPI Bypass fix kar dia gaya hai jisko new bypass karna hai wo pehle apk me ek baar bypass karle fir software me bypass kare.
+
+Jab bhi popup me show ho apk change ke liye to us date me old apk uninstall kar le aur new scan karke install kar le.
