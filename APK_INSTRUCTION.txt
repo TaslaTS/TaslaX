@@ -6,45 +6,31 @@ Step 1: Sabse pehle hamare official groups join kar lijiye daily updates ke liye
 Telegram: https://t.me/+5Rug06syyls1ZmQx
 WhatsApp: https://whatsapp.com/channel/0029Vb7gaz9CRs1uh5coWk2R
 
-RailOne apk install karne ke liye SAI installer ka istemal kare ap SAI niche diye url se download kar sakte hai.
-https://github.com/Aefyr/SAI
-RailOne se token banaye for better results token asaani se ban jayega apko only payment tak jana hai and
-Niche diye I button ko click karna hai aur apna Tesla Id enter kar dena hai.
+**New Premium APK use karne ka proper tareeka (IRCTC aur RailOne dono ke liye same process):**
 
-IMPORTANT (New Proxy Token Instructions):
-Ap se request hai ki aap old token uninstall karke new Proxy Token ko QR scan karke download kar lijiye.
-Is APK me aap proxy set kar sakte hain (koi bhi IP).
-Ham suggest karenge ki aap Rotating Residential Proxy use karein.
+Sabse pehle APK install karein. Agar **RailOne APK** hai to usko **SAI installer** ke through install karna compulsory hai.
 
-Proxy set karne ka tarika:
- - Proxy Set par click karein
- - Proxy ko proper format me paste karein
- - Set par click karein
- - APK ko restart kar lein
+APK open karte hi aapko **Tesla logo** dikhega. Isi logo ke through aapko saari settings manage karni hain aur token send karna hota hai.
 
-Uske baad pehle ki tarah:
- 1. Token generate karein
- 2. Payment tak jayein
- 3. Wapas Home par aakar Send Token karein
- 4. Tesla ID enter karke token send kar dein
+Jab aap **Tesla logo par click** karenge, to wahan **3 options** show honge:
 
-Preferred Token Timing:
- - AC: 8:30 AM – 9:00 AM
- - Sleeper: 10:10 AM – 10:30 AM
+**1) Tokens**
+Is option ke andar aapke saare generated tokens dikhai denge. Yahin par aapko apni **User ID enter** karni hoti hai aur **token send** karna hota hai.
 
-APK ka istemal sirf subah token generate karne ke liye karein.
-Bina wajah 7–11 AM APK open na karein.
+**2) Device ID**
+Is section me jaakar sabse pehle **Generate All** par click karein.
+Token generate karne se pehle hamesha *Generate All* karna zaroori hai, taaki APK aapki **device details automatically change** kar sake.
+Generate All karne ke baad APK ko **background se close** karein, phir **2–3 seconds baad dobara open** karein aur token generation start karein.
 
-Sleeper ke liye different phone ka use karein for better results.
+?? **Important notice:**
+Har baar token banane se pehle **device details change** karna mandatory hai. Isse *unable to process* ya kisi bhi type ki error nahi aayegi aur token smoothly generate hoga.
+Device details change karne ke baad **APK restart zaroor karein**, taaki app nayi settings ke saath properly initialize ho sake.
 
-Step 2: Important:
- - Token software me Get karne ke baad software restart na karein
- - Same generated token se aap App / Sup / RailOne me login kar sakte hain
+Baaki **token generation ka process bilkul same** rahega—payment page tak jaakar wahan se token send kar dena hai.
 
-Step 3: RailOne APK Users:
- - RailOne APK ka token App / Sup / RailOne sab me work karega.
+**Jade form booking** ya **Jade pair login** ke liye hamesha device details aur network change karke hi token generate karein.
 
-Note: App login poori tarah se token par depend karta hai.
-Har step ko bahut dhyaan se follow karein.
+Chahe **RailOne ka token ho ya Connect ka**, sabhi tokens ke through aap easily kisi bhi login me access le sakte hain.
 
-Follow these steps carefully for smooth login and token working!
+
+
