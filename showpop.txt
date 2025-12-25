@@ -1,6 +1,4 @@
 true####
-23th December 2025.
-Please Uninstall the old APK and then install the new one
-by scanning the QR under the Check Token option.
-Premum apk of RailOne and IRCTC Has been Uploaded.
-Read APK Instruction in the check token form.
+25th December 2025.
+Home PC wale home IP par web2 login ka istemal kare.
+VPS and slot ip par App login kare.
