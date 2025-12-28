@@ -1,18 +1,15 @@
-Agar aap chahen to RailOne APK se token bana sakte hain aur us token ka use karke App Login, SUP Login aur RailOne Login kar sakte hain.
+Home PC users hamesha WEB2 ka use karein. WEB2 ke pairs se login karke cursor ko chhod dein, poora process automatically setup ho jayega.
 
-Yadi aap home PC use kar rahe hain, to sirf WEB2 login ka istemal karein. Aap ek saath sabhi windows me login kar sakte hain aur cursor chhod dijiye — saari process automatically ho jayegi.
+RailOne login ke liye token sirf RailOne login se hi generate karein.
 
-VPS me aap APP, SUP aur RailOne ka istemal karein, kyunki WEB login VPS me aksar error deta hai. Isliye is baat ka khaas dhyaan rakhein.
-Home PC par home IP ke saath WEB2 login ka maximum use karein.
+App login ke liye token hamesha Connect APK se hi banayein.
 
-WEB2 aur WEB3, home PC par proper aur achha kaam karte hain.
+Dono APK mein Check Token option par token hamesha show ho jayega. Token generate karne se pehle Device Info mein jaakar Regenerate All karein, phir APK ko background se close karke 2–3 seconds baad reopen karein.
 
-Sabhi logins me aap kisi bhi slot ka istemal kar sakte hain.
+Token daily alag-alag IDs se banayein aur IP change karne ke liye Airplane Mode on/off karein.
 
-Jaise agar aapke paas home PC hai, to usme IP add karein aur us IP par App Login karein.
-Home IP (Slot 1 aur Slot 2) par maximum 4 pair WEB2 login kar dein.
-Aisa karne se aapka kaam pakka hoga aur booking bhi fast hogi.
+Agar aap RailOne aur App login dono use karna chahte ho, to dono ke tokens generate karke ek saath Get karein. Aapko total number of tokens show ho jayenge jo aapne generate kiye hain.
 
-Bhim SBI UPI Bypass fix kar dia gaya hai jisko new bypass karna hai wo pehle apk me ek baar bypass karle fir software me bypass kare.
+Agar aapko multiple forms login karne hain, to Device Info change karke new-new IP ke saath token banayein, aur end mein sab tokens Get kar lein.
 
-Jab bhi popup me show ho apk change ke liye to us date me old apk uninstall kar le aur new scan karke install kar le.
+Aap jitne chaaho utne tokens generate kar sakte ho—10 bhi ya 100 bhi. Bas hamesha token generate karte time new-new Device Info regenerate karke hi karein.
