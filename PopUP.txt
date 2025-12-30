@@ -1,3 +1,5 @@
+Adhar otp reader and test file hamare telegram channel par daal di gayi hai jo user use karna chahe telegrma channel se download kar sakte hai aur istemal kar sakte hai final release update aaj sham tak kar daia jayega.
+
 Home PC users hamesha WEB2 ka use karein. WEB2 ke pairs se login karke cursor ko chhod dein, poora process automatically setup ho jayega.
 
 RailOne login ke liye token sirf RailOne login se hi generate karein.
