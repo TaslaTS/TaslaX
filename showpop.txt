@@ -1,9 +1,9 @@
 true####
-01st Jan 2026.
+9th Jan 2026.
 Latest Updated RailOne apk and irctc apk upload kar dia gaya hai QR scan karke downlod kar sakte hai.
 APP Login ke liye, token sirf Rail Connect App se hi generate hona chahiye.
 RailOne Login ke liye, token sirf RailOne App se hi generate hona chahiye.
 IRCTC ab allow nahi karta ki Rail Connect App se generate hua token RailOne mein use ho, ya RailOne ka token APP Login mein use kiya jaaye.
 Dono token generators available hain — agar aap dono logins use karna chahte ho, to dono token generators se token generate karein, aur login software automatically har token ko uske respective login ke saath assign kar dega.
-Simple rule:
-Jis app se token generate hota hai, wahi token sirf usi app ke login ke liye valid hota hai.
+
+Spoof me jakar generate all kar le and apk ko restart kar le background se close karke
