@@ -1,8 +1,7 @@
 true####
 30th Jan 2026.
-Important Alert Dhyaan de 
-Security file me issue hone ki wajah se old update fir se daal dia gaya hai jisme only APP and RailOne login work karega.
-Hamara security developer is time offline hota hai isliye new file update nhai kar sakte hai isliye all users se request hai only APP and RailOne login ka istemal kare apk jo aap use kar rahe the usi ka istemal kare jinhe apk me confusion hai wo check token se QR scan karke apk download kar le.
-web ke sare update ready hai only security bug ki wajah se update wapas lia gaya hai evening tak apko web login bhi properly working mil jayega.
-
-Auto submit captcha option me jakar tick jarur hata de aur captcha dekh kar hi login kare warna apki ip block ho sakti hai.
+Option me jakar auto submit captcha after auto fill se tick hata de aur captcha ko chech karke hi submit kare.
+Aisa na karne se apka ip block hoga aur booking me issue hoga isliye sirf aaj ke liye auto submit after auto fill se tick hata de.
+Irctc ne kuch changes captcha pattern me kia hai jab tak is captcha ka OCR ready nahi hota hai aap log captcha ko manually dekh kar submit kare.
+All login working fine.
+Updated telegram channel link dal di gayi hai users se request hai join kar le taki all update apko time par mile.
