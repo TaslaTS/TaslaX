@@ -1,9 +1,6 @@
 true####
-18th Jan 2026.
-Latest Updated RailOne apk Dal dia gaya hai aap users install karke use kar sakte hai.
-APP Login ke liye, token sirf Rail Connect App se hi generate hona chahiye.
-RailOne Login ke liye, token sirf RailOne App se hi generate hona chahiye.
-IRCTC ab allow nahi karta ki Rail Connect App se generate hua token RailOne mein use ho, ya RailOne ka token APP Login mein use kiya jaaye.
-Dono token generators available hain — agar aap dono logins use karna chahte ho, to dono token generators se token generate karein, aur login software automatically har token ko uske respective login ke saath assign kar dega.
-
-Spoof me jakar generate all kar le and apk ko restart kar le background se close karke
+30th Jan 2026.
+Option me jakar auto submit captcha after auto fill se tick hata de aur captcha ko chech karke hi submit kare.
+Aisa na karne se apka ip block hoga aur booking me issue hoga isliye sirf aaj ke liye auto submit after auto fill se tick hata de.
+Irctc ne kuch changes captcha pattern me kia hai jab tak is captcha ka OCR ready nahi hota hai aap log captcha ko manually dekh kar submit kare.
+All login working fine.
