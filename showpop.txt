@@ -4,3 +4,4 @@ Option me jakar auto submit captcha after auto fill se tick hata de aur captcha 
 Aisa na karne se apka ip block hoga aur booking me issue hoga isliye sirf aaj ke liye auto submit after auto fill se tick hata de.
 Irctc ne kuch changes captcha pattern me kia hai jab tak is captcha ka OCR ready nahi hota hai aap log captcha ko manually dekh kar submit kare.
 All login working fine.
+Updated telegram channel link dal di gayi hai users se request hai join kar le taki all update apko time par mile.
