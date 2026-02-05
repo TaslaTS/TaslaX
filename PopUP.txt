@@ -1,9 +1,2 @@
-05 February 2026 – Important Notice
-New APK me SIM Operator ke niche jitni bhi values/configurations hain, un sab ko disable karde.
-Uske baad APK restart karke token generate karein — isse error nahi aayega.
-Disable jarur kare warna error show hoga disable ke generate all kare aur restart karke token banaye wo values disable hi honi chaiyye
-
-Aapke device me jo bhi purane RailOne aur IRCTC APK installed hain, un sab ko uninstall kar dein. Uske baad fresh APK ko scan karke download aur install karein.
-
-Purane APK se generate hue tokens ab kaam nahi karenge. Software ka update hona mandatory hai. Agar aapka software auto-update nahi hua hai, to manually updater run karna zaroori hai.
-Aur zyada details ke liye hamare Telegram channel aur WhatsApp channel ko join karein.
+06th February 2026 – Important Notice
+Uninstall all old apk and install by scanning QR under Check token options
