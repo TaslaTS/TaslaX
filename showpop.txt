@@ -1,6 +1,11 @@
 true####
 05 February 2026 – **Important**
 Sabhi purane RailOne aur IRCTC APK uninstall karein aur fresh APK scan karke download aur install karein. Purane APK ke tokens ab valid nahi hain.
+
+New APK me SIM Operator ke niche jitni bhi values/configurations hain, un sab ko disable karde.
+Uske baad APK restart karke token generate karein — isse error nahi aayega.
+Disable jarur kare warna error show hoga disable ke generate all kare aur restart karke token banaye wo values disable hi honi chaiyye
+
 Software update mandatory hai. Agar auto-update nahi hua hai, to manually updater run karein.
 APK banane ka process same rahega, bas scroll karne par neeche di gayi saari values ko randomly generate karein.
 More details ke liye Telegram aur WhatsApp channel join karein.
