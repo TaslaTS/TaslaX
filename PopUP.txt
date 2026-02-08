@@ -1,2 +1,11 @@
-06th February 2026 – Important Notice
-Uninstall all old apk and install by scanning QR under Check token options
+08th February 2026 – Important Notice
+Freecharge bypass payment issue ab fix ho chuka hai.
+Ab aap bindass Freecharge se payment kar sakte hain.
+
+Fast aur best payment gateway ke liye IPAYUPI ka istemal karein.
+
+Ab jab aap token get karenge, to wahan ek option show hoga jisme aapko select karna hoga ki yeh token RailOne ka hai ya Connect karna hai.
+Jaise hi aap Connect par click karenge, token turant assign ho jayega.
+
+Web2 aur Web3 dono ko pehle se kaafi fast kar diya gaya hai.
+Web2 ko proxy par aur zyada stable bana diya gaya hai.
