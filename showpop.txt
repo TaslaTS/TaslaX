@@ -1,6 +1,7 @@
 true####
-12 February 2026 – **Important**
-Web2 and web3 driver update kar dia gaya hai all users dhyan rakhe ki unka chrome updated ho latest version.
-data me jakar web2 driver ek baar install kar le taki apka web2 and web3 proxy par bhi login ho jaye.
-Fast and best gateway ke liye JIOPAYUPI ka istemal kare only in APP login and web me ap Phonepe ka istemal kare.
-JIOPAYUPI me all bypass upi ap save karke booking kar sakte hai.
+14 February 2026 – **Important**
+Bhim AXIS Bypass ab fully band ho chuka hai axis dwara isliye apse request hai axis bypass bina test ke booking na kare.
+BHIM SBI ab proper kaam kar raha hai aap use kar sakte hai.
+Bhim NPCI fully not workiing hai.
+Freecharge Proper working hai iske bypass ke through aap QR bhi bypass kar sakte hai.
+WEB2 Driver install kar le taki web2 update ho jaye aur apka login slot proxy par proper work kare.
