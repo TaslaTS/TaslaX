@@ -2,7 +2,13 @@
 Freecharge bypass payment issue ab fix ho chuka hai.
 Ab aap bindass Freecharge se payment kar sakte hain.
 
-Fast aur best payment gateway ke liye IPAYUPI ka istemal karein.
+Fast aur best payment gateway ke liye JIOPAYUPI , IPAYUPI ka istemal karein.
+
+Bhim AXIS Bypass ab fully band ho chuka hai axis dwara isliye apse request hai axis bypass bina test ke booking na kare.
+BHIM SBI ab proper kaam kar raha hai aap use kar sakte hai.
+Bhim NPCI fully not workiing hai.
+Freecharge Proper working hai iske bypass ke through aap QR bhi bypass kar sakte hai.
+WEB2 Driver install kar le taki web2 update ho jaye aur apka login slot proxy par proper work kare.
 
 Ab jab aap token get karenge, to wahan ek option show hoga jisme aapko select karna hoga ki yeh token RailOne ka hai ya Connect karna hai.
 Jaise hi aap Connect par click karenge, token turant assign ho jayega.
