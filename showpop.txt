@@ -1,6 +1,6 @@
 true####
-20 February 2026 – **Important**
-Jin users ko Ip block issue jada face ho raha hai wo log se request hai latest QR scan kare aur apk download kare jo Qr No 3 hai.
-Us apk se jo token ap banayenge usko get karne ke liye apko get token server2 par click karna hoga.
-New apk me all data spoof karke restart karle aur token banaye.
-Ek pair app and ek pair railone login kare for best results.
+21 February 2026 – **Important**
+Ab apke pass 2 option hai token apk ke old and new jisko old me ip block issue ya koi error face hota hai to new token apk use kare jiska old proper chal raha hai wo old hi use kare.
+New aap for testing and comparing purpose ke liye istemal kar sakte hai.
+New apk me token banane se pehle spoof me jakar generate all kare aur apk ko restart kar de tabhi token banaye.
+Join our telegram and whatsapp group for more information.
