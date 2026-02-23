@@ -1,9 +1,11 @@
-Important News:-- 23Feb 2026.
+Important Token APK News – 23 Feb 2026
 
-RailOne and New Version apk update kia gaya hai ap users chahe to download kar sakte hai.
+Sabhi users se request hai ki old RailOne APK ko uninstall kar dein.
+Uske baad new RailOne APK ko QR scan karke download karein aur install karein.
 
-New version Railone second QR and New Version Irctc third qr se download kia jaa sakta hai.
+Jin users ne testing ke liye third column se tester APK download ki thi, wo bhi apni purani APK uninstall kar dein.
+Ab fresh new APK third column se QR scan karke download karein. Yeh final aur fully tested version hai.
 
-New version ke sare tokens get karne ke liye apko fetch_token_new par click karna hoga.
+Jinhone 23 Feb ke baad naya RailOne aur IRCTC APK download kar liya hai, wo ab Token sirf “Fetch Token_new” button se hi fetch karein.
 
-Baki jo users old irctc captcha wala apk ab tak token ke liye istemal kar rahe hai wo pehle ke tareeke se hi token get kare.
+Jo log abhi bhi old APK use kar rahe hain (jisme login captcha aata hai), wo pehle ki tarah hi Token fetch karein.
