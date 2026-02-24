@@ -1,14 +1,16 @@
-21th February 2026 – Important Notice
-Freecharge bypass payment issue ab fix ho chuka hai.
-Ab aap bindass Freecharge se payment kar sakte hain.
+26th February 2026 – Important Notice
 
+Old RailOne APK ko uninstall kar dein aur new RailOne APK install kar lein.
 
-Ab apke pass 2 option hai token apk ke old and new jisko old me ip block issue ya koi error face hota hai to new token apk use kare jiska old proper chal raha hai wo old hi use kare.
-New aap for testing and comparing purpose ke liye istemal kar sakte hai.
-New apk me token banane se pehle spoof me jakar generate all kare aur apk ko restart kar de tabhi token banaye.
+Jin users ne tester purpose ke liye latest IRCTC APK install ki thi, unse request hai ki us version ko uninstall karke final tested version install karein. Final version third column se QR scan karke download karein.
 
-Join our telegram and whatsapp group for more information.
+Jo users latest token APK use nahi karna chahte, sirf wahi log old button se token get karein. Baaki jin users ne naya APK install kar liya hai, wo ab “Fetch Token_new” button se hi token generate karein.
 
-Note:- WEB2 and WEB3 login  totally free hai yani agar apko only web2 and web3 login use karna hai to https://panel.taslatss.com/  par jaye waha par create demo kare aur us id se software ko open kar le aap bindass web2 and web3 free me use kar payenge.
+New version APK proper testing ke baad update kiya ja raha hai. Agar aap abhi old captcha wala APK use karna chahte hain to wo aapki choice hai, aap use kar sakte hain.
 
-All news and information hamare telegram and whatsapp channel par ublabh hai ap users join kar le for time to time update.
+Zyada information ke liye hamara Telegram aur WhatsApp group join karein.
+
+Note: WEB2 aur WEB3 login totally free hai. Agar aap sirf WEB2 aur WEB3 login use karna chahte hain to https://panel.taslatss.com/
+ par jaakar demo create karein aur us ID se software open karein. Aap WEB2 aur WEB3 free me use kar sakte hain.
+
+Saari news aur updates hamare Telegram aur WhatsApp channel par available hain. Time to time update ke liye join kar lein.
