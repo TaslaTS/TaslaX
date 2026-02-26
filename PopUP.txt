@@ -1,5 +1,7 @@
 25th Feb 2026.
 
+WEB login par depend na rahe ek pair app ya RailOne login jarur kare aurdhyan rakhe har form ka pehla pair apko app login hi karna hai. New version apk proper and fully working hai jo users ko old apk me problem face ho raha hai wo new version apk column no 3 se download kar sakte hai.
+
 ####Hamesha Har form ka first yani pehla Pair App login hi kare second pair apki choice hai aap chahe to Web2 kare ya web3 ya RailOne ya fir APP but hamesha first pair APP login hi hona chaiyye####
 
 Old RailOne APK ko uninstall kar dein aur new RailOne APK install kar lein.
