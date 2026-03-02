@@ -1,6 +1,10 @@
-false####
-21 February 2026 – **Important**
-Ab apke pass 2 option hai token apk ke old and new jisko old me ip block issue ya koi error face hota hai to new token apk use kare jiska old proper chal raha hai wo old hi use kare.
-New aap for testing and comparing purpose ke liye istemal kar sakte hai.
-New apk me token banane se pehle spoof me jakar generate all kare aur apk ko restart kar de tabhi token banaye.
-Join our telegram and whatsapp group for more information.
+true####
+Jin Users ko Old APK use karne me IP Block issue face ho raha hai wo log se request hai new apk third Column se download karke install kar le aur usko hi use kare.
+Hamesha pehla pair APP Login kare uske baad ka second pair ap chahe to railone , web2 ya web3 ya fir APP kar sakte hai but important yeh hai ki aap pehla pair APP Login hi kare.
+
+Best Time for Token Generation:
+
+For Opening, generate tokens from 7:30 AM onwards.
+For AC Class, the best time to generate tokens is between 8:00 AM and 9:00 AM.
+For Sleeper Class, generate tokens from 10:00 AM until before booking closes.
+
