@@ -1,19 +1,15 @@
-Important Token APK News – 26 Feb 2026
+Token APK ko update kar diya gaya hai. Kripya column number 3 se latest Token APK download kar lein aur “Fetch New Token” button ka use karke token generate karein.
 
-Hamesha pehla pair app login hi kare aur second pair aap jo marji wo kare App , web2 , web3 ya RailOne.
+**Kuch zaroori nirdesh:**
 
-RailOne me agar status blank ka error ataa hai to Railone driver data me jakar install kare.
+APK ko normal tareeke se open karein aur token generate karne ki process shuru karein. Payment page tak pahunchne ke dauran “availability” option par 4–5 baar click karte rahein.
 
+Jab aap sahi tarah se payment section tak pahunch jaayein, tab apni User ID enter karke login karein. Login ke baad neeche “Send Token” ka option milega. Us par click karne par token bhej diya jayega, jise aap software me jaakar receive kar sakte hain.
 
-Important Note 23 Feb 2026.
+Dhyaan rahe ki token send hone ke baad “About” section me jaayein aur neeche diye gaye “Clear App Data” button par click kar dein.
 
-Sabhi users se request hai ki old RailOne APK ko uninstall kar dein.
+**Mahattvapurn soochna:**
 
-Uske baad new RailOne APK ko QR scan karke download karein aur install karein.
+Agar token generate karte waqt IP error ya kisi bhi tarah ka Akamai se related error aaye, to Spoof section me jaakar “Device Identifier” ke andar “Enable All Device Spoof” option ko ON kar dein. Iske baad APK ko restart karke dobara token generate karein.
 
-Jin users ne testing ke liye third column se tester APK download ki thi, wo bhi apni purani APK uninstall kar dein.
-Ab fresh new APK third column se QR scan karke download karein. Yeh final aur fully tested version hai.
-
-Jinhone 24 Feb ke baad naya RailOne aur IRCTC APK download kar liya hai, wo ab Token sirf “Fetch Token_new” button se hi fetch karein.
-
-Jo log abhi bhi old APK use kar rahe hain (jisme login captcha aata hai), wo pehle ki tarah hi Token fetch karein.
+Yeh option default me disabled hota hai. Zarurat padne par aap ise use kar sakte hain. Baaki jo bhi spoof options available hain, unka bhi istemal kar sakte hain. Lekin pehli baar token generate karte waqt bina kisi spoof ko enable kiye hi process try karein.
