@@ -1,3 +1,5 @@
+Old Apk bhi update kar dia gaya hai captcha wala apk jo users chahe iska istemal kar sakte hai isko download karne ke liye first QR ko scan kare aur install kare aur token fetch ke liye old button ka hi istemal kare.
+
 Token APK ko update kar diya gaya hai. Kripya column number 3 se latest Token APK download kar lein aur “Fetch New Token” button ka use karke token generate karein.
 
 **Kuch zaroori nirdesh:**
