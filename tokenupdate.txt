@@ -1,14 +1,28 @@
-Old Apk bhi update kar dia gaya hai captcha wala apk jo users chahe iska istemal kar sakte hai isko download karne ke liye first QR ko scan kare aur install kare aur token fetch ke liye old button ka hi istemal kare.
+Better results ke Jo Time dia gaya hai us time par token bana le aur send kar de fir jab aap software open kare us time get kar le.
+Token banane se pehle **About** me jaakar **Clear App Data** karein.
+Sabse pehle token **bina kisi spoof ko enable kiye** banayein.
 
-Token APK ko update kar diya gaya hai. Kripya column number 3 se latest Token APK download kar lein aur “Fetch New Token” button ka use karke token generate karein.
+Zyada token banane ke chakkar me apna kaam kharab na karein.
+Sirf **10–15 token** hi banayein.
 
-**Kuch zaroori nirdesh:**
-APK ko normal tareeke se open karein aur token generate karne ki process shuru karein. Payment page tak pahunchne ke dauran “availability” option par 4–5 baar click karte rahein.
+Availability check karte waqt **1–2 second ka gap** rakhein.
+Agar aap lagataar availability par tap karenge ya kisi bhi button ko spam karenge, to token blacklisted ho sakta hai.
+Isliye sab kuch araam se karein.
 
-Jab aap sahi tarah se payment section tak pahunch jaayein, tab apni User ID enter karke login karein. Login ke baad neeche “Send Token” ka option milega. Us par click karne par token bhej diya jayega, jise aap software me jaakar receive kar sakte hain.
+**Simple steps token banane ke liye:**
 
-Dhyaan rahe ki token send hone ke baad “About” section me jaayein aur neeche diye gaye “Clear App Data” button par click kar dein.
-**Mahattvapurn soochna:**
-Agar token generate karte waqt IP error ya kisi bhi tarah ka Akamai se related error aaye, to Spoof section me jaakar “Device Identifier” ke andar “Enable All Device Spoof” option ko ON kar dein. Iske baad APK ko restart karke dobara token generate karein.
+1. App open karein
+2. **About** par click karein
+3. **Clear App Data** karein
+4. App ko reopen karein
+5. Login karein
+6. Train search karein
+7. **Availability** par 5–6 baar click karein, har click ke beech **1–2 second ka interval** rakhein
+8. Passenger details fill karein
+9. Captcha fill karein
+10. Payment me **iPay/UPI** select karein
+11. Payment page par pahunchne ke baad user ID se login karein aur token send kar dein
+12. Uske baad phir se **About** me jaakar **Clear App Data** karein
 
-Yeh option default me disabled hota hai. Zarurat padne par aap ise use kar sakte hain. Baaki jo bhi spoof options available hain, unka bhi istemal kar sakte hain. Lekin pehli baar token generate karte waqt bina kisi spoof ko enable kiye hi process try karein.
+Agar dobara token banana ho, to is baar **dusra IP ya Wi-Fi** use karein aur **Device Identifier Spoof** enable kar lein.
+Agar token generate karte wakt ip error aata hai to spoof me jakar device identifier ko enable kar de aur apk restart kar de dhyan rakhe spoof enable karne ke baad clear app data na kare only restart kare.
