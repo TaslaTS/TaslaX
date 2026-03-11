@@ -1,16 +1,12 @@
 Better results ke Jo Time dia gaya hai us time par token bana le aur send kar de fir jab aap software open kare us time get kar le.
 Token banane se pehle **About** me jaakar **Clear App Data** karein.
 Sabse pehle token **bina kisi spoof ko enable kiye** banayein.
-
 Zyada token banane ke chakkar me apna kaam kharab na karein.
 Sirf **10–15 token** hi banayein.
-
 Availability check karte waqt **1–2 second ka gap** rakhein.
 Agar aap lagataar availability par tap karenge ya kisi bhi button ko spam karenge, to token blacklisted ho sakta hai.
 Isliye sab kuch araam se karein.
-
 **Simple steps token banane ke liye:**
-
 1. App open karein
 2. **About** par click karein
 3. **Clear App Data** karein
