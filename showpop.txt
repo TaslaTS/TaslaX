@@ -1,10 +1,6 @@
 true####
-Very Important Dont use IPAYUPI and OTOPAY today.
-Ap apna bypass ya normal upi CASHFREEUPI , PHONEPE , RAZORPAYUPI , MOBIKWIKUPI in jagah par save karke istemal kare IPAYUPI jaldi hi fix kar dia jayega
 
-Jin Users ko Old APK use karne me IP Block issue face ho raha hai wo log se request hai new apk third Column se download karke install kar le aur usko hi use kare.
-Aur jinko new apk me ip block issue fae ho raha hai wo first column wala apk use kare aur first column apk ke token ko get ke liye fetch_token button par click kare.
-Hamesha pehla pair APP Login kare uske baad ka second pair ap chahe to railone , web2 ya web3 ya fir APP kar sakte hai but important yeh hai ki aap pehla pair APP Login hi kare.
+Agar apka software updated nahi hai yani apka version 98 se kam hai to ap turant updater run karke software update kar le kyuki old version me token get me apko problem ho sakti hai.
 
 Best Time for Token Generation for best results:
 
