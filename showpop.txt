@@ -2,7 +2,7 @@ true####
 IPAYUPI , BHIMUPI ,JIOPAYUPI , FASTUPI , PHONEPE , CASHFREEUPI , RAZORPAYUPI YEH ALL TOTALLY WORKING HAI AAP BINDASS BOOKING KAR SAKTE HAI ALL BYPASS WALI UPI AAP ISME SAVE KAR SAKTE HAI.
 IPAYUPIQR ANUAL AND FREECHARGE BYPASS SE WORKING HAI.
 
-OTOPAY NOT WORKING HAI ISKO NEXT UPDATE TAK USE NA KARE
+OTOPAY working now only manual aur sirf un banks par jo otopay support karte hai jo bank autopay support nahi karte hai unpar autopay work nahi karega.
 
 Agar apka software updated nahi hai yani apka version 98 se kam hai to ap turant updater run karke software update kar le kyuki old version me token get me apko problem ho sakti hai.
 
