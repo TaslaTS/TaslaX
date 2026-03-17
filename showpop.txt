@@ -1,4 +1,7 @@
 true####
+
+Jin users ko booking fail issue aa raha hai wo log se request hai ki UPIMOBIKWIK , JIOPAYUPI me apna koi bhi bypass upi save kare aur istemal kare in gateway me booking fail isssue bilkul nahi hai.
+
 IPAYUPI , BHIMUPI ,JIOPAYUPI , FASTUPI , PHONEPE , CASHFREEUPI , RAZORPAYUPI YEH ALL TOTALLY WORKING HAI AAP BINDASS BOOKING KAR SAKTE HAI ALL BYPASS WALI UPI AAP ISME SAVE KAR SAKTE HAI.
 IPAYUPIQR ANUAL AND FREECHARGE BYPASS SE WORKING HAI.
 
