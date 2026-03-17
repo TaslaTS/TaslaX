@@ -1,17 +1,8 @@
 true####
 
-Jin users ko booking fail issue aa raha hai wo log se request hai ki UPIMOBIKWIK , JIOPAYUPI me apna koi bhi bypass upi save kare aur istemal kare in gateway me booking fail isssue bilkul nahi hai.
+UPIMOBIKWIK , JIOPAYUPI ME INTERNAL CHANGES KIYE GAYE HAI YEH GATEWAY AGAR AP USE KARTE HAI TO INME BOOKING FAIL ISSUE APKO NAHI HOGA.
+AP APNI KOI BHI BYPASS UPI KO IN GATEWAY ME SAVE KARE AUR ISTEMAL KARE.
 
-IPAYUPI , BHIMUPI ,JIOPAYUPI , FASTUPI , PHONEPE , CASHFREEUPI , RAZORPAYUPI YEH ALL TOTALLY WORKING HAI AAP BINDASS BOOKING KAR SAKTE HAI ALL BYPASS WALI UPI AAP ISME SAVE KAR SAKTE HAI.
-IPAYUPIQR ANUAL AND FREECHARGE BYPASS SE WORKING HAI.
-
-OTOPAY working now only manual aur sirf un banks par jo otopay support karte hai jo bank autopay support nahi karte hai unpar autopay work nahi karega.
-
-Agar apka software updated nahi hai yani apka version 98 se kam hai to ap turant updater run karke software update kar le kyuki old version me token get me apko problem ho sakti hai.
-
-Best Time for Token Generation for best results:
-
-For Opening, generate tokens from 7:30 AM onwards.
-For AC Class, the best time to generate tokens is between 8:00 AM and 9:00 AM.
-For Sleeper Class, generate tokens from 10:00 AM until before booking closes.
+RAILONE TOKEN APK UPDATE KIA GAYA HAI JO USERS CHAHE LATEST APK UPDATE KAR SAKTE HAI NEW RAILONE TOKEN ME AAP TOKEN SUBAH KI BOOKING KE LIYE RAAT ME HI GENERATE KARKE STORE KAR SAKTE HAI IS APK ME TOKEN STORE KE TIME KO MODIFY KIA GAYA HAI APSE REQUEST HAI HAMESHA TOKEN BANANE SE PEHLE APK KO CLEAR DATA AND CLEAR CACHE KAR LE AUR SAME DAY ME SAME IRCTC ID SE TOKEN NA BANAYE.
+TOKEN BANATE WAKT HAR CLICK KE BEECH ME 1-2 SEC GAP JARUR DE YANI EK SAATH KISI BHI BUTTON PAR JADA CLICKS NA KARE 1-2 SEC INTERVAL PAR CLICK KARE.
 
