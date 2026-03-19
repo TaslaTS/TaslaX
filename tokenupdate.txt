@@ -1,2 +1,13 @@
-RailOne apk update kia gaya hai jo users chahe updated apk istemal kar sakte hai.
-RailOne me ab aap token 12hours pehle bhi generate karke server par store kar sakte hai aur next day booking se pehle aap token software me get kar le.
+New Feature: Store Token (IRCTC & RailConnect APK ke liye)
+
+Latest IRCTC aur RailConnect APK me ek naya Store Token feature add kiya gaya hai.
+
+Ab jab aap token Tesla server par send karenge, to wo tokens server par safely store ho jayenge. Software me jab aap Check Token par click karenge, to top-left corner me total tokens show honge jo aapne server par upload kiye hain.
+
+Token Fetch Karna:
+fetch_token_new button par click karein. Ek chhota sa form open hoga jisme aap jitne tokens chahiye wo enter kar sakte hain, ya Get All Tokens option select kar sakte hain isse all tokens apke software me assign ho jayenge.
+
+Jitne tokens aap fetch karenge, utne tokens server se automatically minus ho jayenge.
+
+Example:
+Agar server par aapke paas 20 RailOne tokens aur 10 IRCTC tokens hain, aur aapko 5 RailOne tokens aur 5 IRCTC tokens chahiye, to aap form me 5 aur 5 enter karein. Itne tokens aapke software me assign ho jayenge, aur server par remaining tokens 15 RailOne aur 5 IRCTC rahenge.
