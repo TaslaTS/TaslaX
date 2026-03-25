@@ -1,14 +1,23 @@
-18th March 2026
+1. 2 PNR ek saath booking karne ke liye 1 pair Web-2 aur 1 Web-3 me login karein.
 
-Saari news aur updates hamare Telegram aur WhatsApp channel par available hain. Time to time update ke liye join kar lein.
+2. Web-3 ke liye Check IP Block Edge me karna hai.
+   Ye process sirf 1 baar karna hai, aap chahe to daily bhi kar sakte hain.
 
-Apse request hai niche diye hue news ko dhyan se padhe.
+3. Web-2 ke liye Check IP Block Chrome me karna hai.
+   Ye process sirf 1 baar karna hai, aap chahe to daily bhi kar sakte hain.
 
-SBI NB KO SAHI KAR DIA GAYA HAI
+Desktop se Chrome me extension load karne ka tarika (sirf ek baar karna hai):
 
-UPIMOBIKWIK , JIOPAYUPI ME INTERNAL CHANGES KIYE GAYE HAI YEH GATEWAY AGAR AP USE KARTE HAI TO INME BOOKING FAIL ISSUE APKO NAHI HOGA.
-AP APNI KOI BHI BYPASS UPI KO IN GATEWAY ME SAVE KARE AUR ISTEMAL KARE.
+1. Aapke desktop par "TaslaX Ip Checker" naam ka folder dikhega.
+2. Google Chrome open karein.
+3. Address bar me chrome://extensions/ likh kar open karein ya phir Extensions par click karein.
+4. Top right me "Developer mode" ON karein.
+5. "Load unpacked" button par click karein.
+6. Desktop se "TaslaX Ip Checker" folder select karein.
+7. Extension successfully Chrome me add ho jayega.
 
-RAILONE TOKEN APK UPDATE KIA GAYA HAI JO USERS CHAHE LATEST APK UPDATE KAR SAKTE HAI NEW RAILONE TOKEN ME AAP TOKEN SUBAH KI BOOKING KE LIYE RAAT ME HI GENERATE KARKE STORE KAR SAKTE HAI IS APK ME TOKEN STORE KE TIME KO MODIFY KIA GAYA HAI APSE REQUEST HAI HAMESHA TOKEN BANANE SE PEHLE APK KO CLEAR DATA AND CLEAR CACHE KAR LE AUR SAME DAY ME SAME IRCTC ID SE TOKEN NA BANAYE.
-TOKEN BANATE WAKT HAR CLICK KE BEECH ME 1-2 SEC GAP JARUR DE YANI EK SAATH KISI BHI BUTTON PAR JADA CLICKS NA KARE 1-2 SEC INTERVAL PAR CLICK KARE.
+Ab aap extension use kar sakte hain.
+
+Note: Only 2 pair hi work hoga one pair web2 and one pair web3
+Working Gateways:-ICIVIRTUAL_DC, NSDL_DC, PAYTMQR, E-WALLET, PHONEPEQR, SBI, IPAYUPIQR, IPAYUPI. ( All bypass upi working and QR only manual payment).
 
