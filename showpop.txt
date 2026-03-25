@@ -1,5 +1,7 @@
 true####
 
+WEB2 AND WEB3 update kar dia gaya hai only 2 pair at a time aap kar sakte hai. Booking se pehle daily around 7:30 ya fir 9:30 pure din me ek baar apko ticket me jakar check ip chrome and check ip edge karna hai jisko karne par ek window open hogi usme apko manually irctc id se payment tak jana hai payment par jate hi window me message show hoga ip check sucesssfull uske baad web2 ya web3 login kar dena hai.Note only slot 1 and 2 hi work hoga and only 2 pair hi honge.
+
 JIOPAYUPI use na kare site ne kuch update dia hai next update me gateway fix kar dia jayega.
 Apse request hai niche diye hue news ko dhyan se padhe.
 
@@ -7,7 +9,3 @@ SBI NB KO SAHI KAR DIA GAYA HAI
 
 UPIMOBIKWIK ME INTERNAL CHANGES KIYE GAYE HAI YEH GATEWAY AGAR AP USE KARTE HAI TO INME BOOKING FAIL ISSUE APKO NAHI HOGA.
 AP APNI KOI BHI BYPASS UPI KO IN GATEWAY ME SAVE KARE AUR ISTEMAL KARE.
-
-RAILONE TOKEN APK UPDATE KIA GAYA HAI JO USERS CHAHE LATEST APK UPDATE KAR SAKTE HAI NEW RAILONE TOKEN ME AAP TOKEN SUBAH KI BOOKING KE LIYE RAAT ME HI GENERATE KARKE STORE KAR SAKTE HAI IS APK ME TOKEN STORE KE TIME KO MODIFY KIA GAYA HAI APSE REQUEST HAI HAMESHA TOKEN BANANE SE PEHLE APK KO CLEAR DATA AND CLEAR CACHE KAR LE AUR SAME DAY ME SAME IRCTC ID SE TOKEN NA BANAYE.
-TOKEN BANATE WAKT HAR CLICK KE BEECH ME 1-2 SEC GAP JARUR DE YANI EK SAATH KISI BHI BUTTON PAR JADA CLICKS NA KARE 1-2 SEC INTERVAL PAR CLICK KARE.
-
