@@ -1,7 +1,10 @@
-Jab bhi token banate waqt “Unable to process IP” ka error aaye, to kripya Tesla logo par click karein. Uske baad “Spoof” section me jaakar “Fix IP Issue” button par click karein, phir app ko restart karein aur token dobara banayein.
+Niche diye gaye steps ko dhyan se padho aur follow karo:
 
-Hamesha token banane ke baad “About Me” section me jaakar “Clear App Data” karna mandatory hai.
+Sabse pehle APK open karo aur "About Me" section me jaakar "Clear App Data" button par click karo.
+Phir APK dobara open karo aur "Spoof" column me jao, waha "Fix IP Issue" par click karo.
 
-Ek baar me sirf 8–10 tokens hi banayein. Is process me Login, Train Search, aur Availability par 3–4 baar click karein, har 2–3 second ke interval par. Beech-beech me mobile screen par kahin bhi click karte rahein, taaki device motion record ho aur token sahi tareeke se generate ho.
+APK automatically restart ho jayega, uske baad token generate karo.
+Token banate waqt dhyan rakho ki "Availability" par zyada se zyada 3-4 baar hi click karo, aur har click ke beech 2-3 second ka gap rakho.
 
-Subah booking ke liye tokens raat me hi bana lein. Agar aapko 30 tokens banane hain, to unhe 3 alag-alag rounds me banayein. Saare tokens server par store hote rahenge, aur jab jitne chahiye ho, utne retrieve kar sakte hain.
+Achha token paane ke liye hamesha token 10-15 minute pehle hi generate karo.
+Old token bilkul bhi store mat karo.
