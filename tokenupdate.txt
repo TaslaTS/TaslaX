@@ -1,10 +1,9 @@
-Niche diye gaye steps ko dhyan se padho aur follow karo:
+Agar apko app login use karna hai to steps jarur dhyaan de jo apk ke news me Dale gaye hai.
 
-Sabse pehle APK open karo aur "About Me" section me jaakar "Clear App Data" button par click karo.
-Phir APK dobara open karo aur "Spoof" column me jao, waha "Fix IP Issue" par click karo.
+Apk Open kare about me jaye clear app data par click kare.
 
-APK automatically restart ho jayega, uske baad token generate karo.
-Token banate waqt dhyan rakho ki "Availability" par zyada se zyada 3-4 baar hi click karo, aur har click ke beech 2-3 second ka gap rakho.
+Apk dobara open kare aur fix ip jo spoof option me hai waha click kare.
 
-Achha token paane ke liye hamesha token 10-15 minute pehle hi generate karo.
-Old token bilkul bhi store mat karo.
+Yeh 2 steps apko hamesha follow karne honge token banane ke liye.
+
+RAILONE TOKEN BANANE SE PEHLE RAILONE APK KA APP INFO ME JAKAR CLEAR DATA AND CACHE JARUR KARE
