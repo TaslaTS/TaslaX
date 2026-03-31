@@ -1,3 +1,5 @@
+JIOPAYUPI USE NA KARE SITE SE YEH BAND HO CHUKA HAI
+
 1. 2 PNR ek saath booking karne ke liye 1 pair Web-2 aur 1 Web-3 me login karein.
 
 2. Web-3 ke liye Check IP Block Edge me karna hai.
