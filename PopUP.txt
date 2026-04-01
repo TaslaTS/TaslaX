@@ -19,7 +19,7 @@ WEB4 me cookies banane ke liye aap proxy ka use kar sakte hain, aur login ke liy
 WEB4 use karne se pehle Data section me jaakar Web2 driver install karna zaroori hai.
 
 Note:
-Sirf 3 pairs hi kaam karenge:
+Web Login ke Sirf 3 pairs hi kaam karenge:
 
 1 pair Web2
 1 pair Web3
