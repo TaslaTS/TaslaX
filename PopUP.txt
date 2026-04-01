@@ -1,25 +1,31 @@
-JIOPAYUPI USE NA KARE SITE SE YEH BAND HO CHUKA HAI
+Important Update
 
-1. 2 PNR ek saath booking karne ke liye 1 pair Web-2 aur 1 Web-3 me login karein.
+JIOPAY UPI ka use na kare, kyunki yeh site se band ho chuka hai.
 
-2. Web-3 ke liye Check IP Block Edge me karna hai.
-   Ye process sirf 1 baar karna hai, aap chahe to daily bhi kar sakte hain.
+Zyada tar QR payment ya SBI Net Banking ka use karein, kyunki IPAY UPI me issue aa raha hai.
+Aap App login me FAST UPI ka bhi use kar sakte hain.
 
-3. Web-2 ke liye Check IP Block Chrome me karna hai.
-   Ye process sirf 1 baar karna hai, aap chahe to daily bhi kar sakte hain.
+WEB4 Login Update
 
-Desktop se Chrome me extension load karne ka tarika (sirf ek baar karna hai):
+Is update me WEB4 login add kiya gaya hai.
+Aap WEB4 se login kar sakte hain — process same rahega:
 
-1. Aapke desktop par "TaslaX Ip Checker" naam ka folder dikhega.
-2. Google Chrome open karein.
-3. Address bar me chrome://extensions/ likh kar open karein ya phir Extensions par click karein.
-4. Top right me "Developer mode" ON karein.
-5. "Load unpacked" button par click karein.
-6. Desktop se "TaslaX Ip Checker" folder select karein.
-7. Extension successfully Chrome me add ho jayega.
+Ticket menu me jaayein
+"Check IP Magic" par click karein
+Payment page tak proceed karein
 
-Ab aap extension use kar sakte hain.
+WEB4 me cookies banane ke liye aap proxy ka use kar sakte hain, aur login ke liye slot IP ka use kar sakte hain.
 
-Note: Only 2 pair hi work hoga one pair web2 and one pair web3
-Working Gateways:-ICIVIRTUAL_DC, NSDL_DC, PAYTMQR, E-WALLET, PHONEPEQR, SBI, IPAYUPIQR, IPAYUPI. ( All bypass upi working and QR only manual payment).
+WEB4 use karne se pehle Data section me jaakar Web2 driver install karna zaroori hai.
 
+Note:
+Sirf 3 pairs hi kaam karenge:
+
+1 pair Web2
+1 pair Web3
+1 Pair WEB4
+
+Working Gateways:
+ICIVIRTUAL_DC, NSDL_DC, PAYTM QR, E-WALLET, PHONEPE QR, SBI, IPAY UPI QR, IPAY UPI
+
+Sabhi bypass UPI working hain, lekin QR ke liye manual payment hi karna hoga.
