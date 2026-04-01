@@ -1,5 +1,8 @@
 Important Update
 
+App login par click karke chor de wo auto login 58 par ho jayega ya fir aap all app login pair 58 ke baad hi login kare.
+
+
 JIOPAY UPI ka use na kare, kyunki yeh site se band ho chuka hai.
 
 Zyada tar QR payment ya SBI Net Banking ka use karein, kyunki IPAY UPI me issue aa raha hai.
