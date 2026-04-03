@@ -1,13 +1,9 @@
-Important Update
+RailOne jo browser issue tha wo fix kar dia gaya hai aur Railone new version token apk bhi update kar dia gaya hai aap log qr scan karke download kar sakte hai hamesha railone apk se token banane se pehle app ko clear data and cache kar de.
 
 App login par click karke chor de wo auto login 58 par ho jayega ya fir aap all app login pair 58 ke baad hi login kare.
-
-
 JIOPAY UPI ka use na kare, kyunki yeh site se band ho chuka hai.
-
 Zyada tar QR payment ya SBI Net Banking ka use karein, kyunki IPAY UPI me issue aa raha hai.
 Aap App login me FAST UPI ka bhi use kar sakte hain.
-
 WEB4 Login Update
 
 Is update me WEB4 login add kiya gaya hai.
@@ -29,6 +25,6 @@ Web Login ke Sirf 3 pairs hi kaam karenge:
 1 Pair WEB4
 
 Working Gateways:
-ICIVIRTUAL_DC, NSDL_DC, PAYTM QR, E-WALLET, PHONEPE QR, SBI, IPAY UPI QR, IPAY UPI
+ICIVIRTUAL_DC, NSDL_DC, SBI, PAYTM QR, E-WALLET, PHONEPE QR, SBI, IPAY UPI QR, IPAY UPI
 
 Sabhi bypass UPI working hain, lekin QR ke liye manual payment hi karna hoga.
