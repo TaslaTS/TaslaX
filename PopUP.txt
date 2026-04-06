@@ -2,21 +2,18 @@ RailOne jo browser issue tha wo fix kar dia gaya hai aur Railone new version tok
 
 App login par click karke chor de wo auto login 58 par ho jayega ya fir aap all app login pair 58 ke baad hi login kare.
 JIOPAY UPI ka use na kare, kyunki yeh site se band ho chuka hai.
-Zyada tar QR payment ya SBI Net Banking ka use karein, kyunki IPAY UPI me issue aa raha hai.
-Aap App login me FAST UPI ka bhi use kar sakte hain.
-WEB4 Login Update
+Zyada tar QR payment ya SBI Net Banking ka use karein.
+Aap App login me FASTUPI & RAZORPAYUPI ka bhi use kar sakte hain.
 
+WEB4 Login Update
 Is update me WEB4 login add kiya gaya hai.
 Aap WEB4 se login kar sakte hain — process same rahega:
 
 Ticket menu me jaayein
 "Check IP Magic" par click karein
 Payment page tak proceed karein
-
 WEB4 me cookies banane ke liye aap proxy ka use kar sakte hain, aur login ke liye slot IP ka use kar sakte hain.
-
 WEB4 use karne se pehle Data section me jaakar Web2 driver install karna zaroori hai.
-
 Note:
 Web Login ke Sirf 3 pairs hi kaam karenge:
 
@@ -26,5 +23,4 @@ Web Login ke Sirf 3 pairs hi kaam karenge:
 
 Working Gateways:
 ICIVIRTUAL_DC, NSDL_DC, SBI, PAYTM QR, E-WALLET, PHONEPE QR, SBI, IPAY UPI QR, IPAY UPI
-
 Sabhi bypass UPI working hain, lekin QR ke liye manual payment hi karna hoga.
