@@ -1,3 +1,5 @@
+Old apk uninstall kar le new apk QR scan ya hamare telegram group se download kar le old apk irctc ka ab work nahi karega.
+
 RailOne jo browser issue tha wo fix kar dia gaya hai aur Railone new version token apk bhi update kar dia gaya hai aap log qr scan karke download kar sakte hai hamesha railone apk se token banane se pehle app ko clear data and cache kar de.
 
 App login par click karke chor de wo auto login 58 par ho jayega ya fir aap all app login pair 58 ke baad hi login kare.
