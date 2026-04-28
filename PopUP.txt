@@ -1,28 +1,31 @@
-Old apk uninstall kar le new apk QR scan ya hamare telegram group se download kar le old apk irctc ka ab work nahi karega.Use karne ke video telegram group par dala gaya hai
+?? Ip Block Fix Ka Update De Diya Gaya Hai
+More details Hamare channel par Ublabh hai.
+Old APK uninstall kar lo aur new APK install karo.Old yani jisme aap Token get aur send karte the.
+New APK me "Check Token" section me jao, Live Token Generator QR scan karo aur waha se APK download kar lo.
 
-RailOne jo browser issue tha wo fix kar dia gaya hai aur Railone new version token apk bhi update kar dia gaya hai aap log qr scan karke download kar sakte hai hamesha railone apk se token banane se pehle app ko clear data and cache kar de.
+Booking ke liye request:
+Slot IP par booking karo, yani achi proxy use karo taaki smooth booking ho sake.
 
-App login par click karke chor de wo auto login 58 par ho jayega ya fir aap all app login pair 58 ke baad hi login kare.
-JIOPAY UPI ka use na kare, kyunki yeh site se band ho chuka hai.
-Zyada tar QR payment ya SBI Net Banking ka use karein.
-Aap App login me FASTUPI & RAZORPAYUPI ka bhi use kar sakte hain.
+Process:
+Same process hai, bas APK aur software ko connect karna hai.
+Login kar do — ab token banane ki koi zarurat nahi hai.Aur kahi par bhi click karne ki jarurat nahi hai.
 
-WEB4 Login Update
-Is update me WEB4 login add kiya gaya hai.
-Aap WEB4 se login kar sakte hain — process same rahega:
+Server Info:
+Data ab server par host hai, isliye thoda slow ho sakta hai.
+IP block ka issue almost nahi hoga.
 
-Ticket menu me jaayein
-"Check IP Magic" par click karein
-Payment page tak proceed karein
-WEB4 me cookies banane ke liye aap proxy ka use kar sakte hain, aur login ke liye slot IP ka use kar sakte hain.
-WEB4 use karne se pehle Data section me jaakar Web2 driver install karna zaroori hai.
-Note:
-Web Login ke Sirf 3 pairs hi kaam karenge:
+Performance Tip:
+Fast IP use karo (jitni fast IP, utna fast server se response).
+Kyuki ab data APK ke through process ho raha hai.
 
-1 pair Web2
-1 pair Web3
-1 Pair WEB4
+Steps:
+55 par APK open karo.
+Apni ID daalo.
+Software me Live Token Gen open karo jo New Ticket ke Niche dia hua hai.
+Connect karo aur pair login kar do.
 
-Working Gateways:
-ICIVIRTUAL_DC, NSDL_DC, SBI, PAYTM QR, E-WALLET, PHONEPE QR, SBI, IPAY UPI QR, IPAY UPI
-Sabhi bypass UPI working hain, lekin QR ke liye manual payment hi karna hoga.
+Important Request:
+Starting ke 2–3 din zyada windows me login mat karo.
+
+Pro Tips Optional:-
+Jab apki all window par countdown start ho jaye to aap ek baar apk me fix ip error par click kar de apk auto restart hoga turant usme apna taslaX id dal kar connect karde taki countdown khatam hone se pehle aka apk fir se connected rahe.Yeh Optional hai aap chahe to is step ko ignore bhi kar sakte hai.
