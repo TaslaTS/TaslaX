@@ -16,5 +16,5 @@ Kuch users ko confusion ho raha tha, isliye process ko aur easy bana diya gaya h
 5. Phir Tesla logo par click karein
 6. Apni TeslaX user ID enter karein aur connect kar dein
 
-Aap connect 5:55 AM par karein ya uske baad — poora process software khud handle karega.
+Aap connect 55 AM par karein ya uske baad — poora process software khud handle karega.
 Bas ek baat ka dhyan rakhein: APK close na ho aur screen lock na ho, warna connection toot jayega.
