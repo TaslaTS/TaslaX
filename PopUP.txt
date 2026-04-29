@@ -1,31 +1,20 @@
-?? Ip Block Fix Ka Update De Diya Gaya Hai
-More details Hamare channel par Ublabh hai.
-Old APK uninstall kar lo aur new APK install karo.Old yani jisme aap Token get aur send karte the.
-New APK me "Check Token" section me jao, Live Token Generator QR scan karo aur waha se APK download kar lo.
+Demo start ho chuka hai. Aap apne seller se bolkar free demo le sakte ho.
+2 din ka demo already start ho gaya hai.
 
-Booking ke liye request:
-Slot IP par booking karo, yani achi proxy use karo taaki smooth booking ho sake.
+1st Pair App Login kare and second Pair Railone ya WEB3 login kare WEB3 ke liye pehle Check Ip EDGE karna hoga yeh aap daily bhi kar sakte hai.
 
-Process:
-Same process hai, bas APK aur software ko connect karna hai.
-Login kar do — ab token banane ki koi zarurat nahi hai.Aur kahi par bhi click karne ki jarurat nahi hai.
+APK me sirf apni user ID enter karke “Connect” kar dena hai, baaki saara kaam software khud handle karega.
+APK me apni Tesla user ID daal kar connect par click karein. Jab status “Connected” show ho jaye, tab Ticket column me “Live Token Gen” open karke check kar lein. Uske baad pair login kar dein.
+Koi bhi token manually banane ki zarurat nahi hai — sabhi pairs direct login ho jayenge aur koi IP error nahi aayega.
 
-Server Info:
-Data ab server par host hai, isliye thoda slow ho sakta hai.
-IP block ka issue almost nahi hoga.
+Kuch users ko confusion ho raha tha, isliye process ko aur easy bana diya gaya hai:
 
-Performance Tip:
-Fast IP use karo (jitni fast IP, utna fast server se response).
-Kyuki ab data APK ke through process ho raha hai.
+1. APK open karein
+2. Sabse pehle Tesla logo par click karein
+3. Waha “Clear app data and cache” ka button milega — uspe click karein (APK automatically close ho jayega)
+4. APK dobara open karein
+5. Phir Tesla logo par click karein
+6. Apni TeslaX user ID enter karein aur connect kar dein
 
-Steps:
-55 par APK open karo.
-Apni ID daalo.
-Software me Live Token Gen open karo jo New Ticket ke Niche dia hua hai.
-Connect karo aur pair login kar do.
-
-Important Request:
-Starting ke 2–3 din zyada windows me login mat karo.
-
-Pro Tips Optional:-
-Jab apki all window par countdown start ho jaye to aap ek baar apk me fix ip error par click kar de apk auto restart hoga turant usme apna taslaX id dal kar connect karde taki countdown khatam hone se pehle aka apk fir se connected rahe.Yeh Optional hai aap chahe to is step ko ignore bhi kar sakte hai.
+Aap connect 5:55 AM par karein ya uske baad — poora process software khud handle karega.
+Bas ek baat ka dhyan rakhein: APK close na ho aur screen lock na ho, warna connection toot jayega.
