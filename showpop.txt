@@ -1,10 +1,15 @@
-false####
+true####
 
-SBIUPI bypass se payment hone me issue ho raha tha wo fix kar dia gaya hai aur sbi upi ko UPIMOBIKWIK se jod dia gaya hai.
+**For RailOne Users**
 
-Booking process ko optimize kia gaya hai
+RailOne login ab bina token ke kiya ja sakta hai. Aapko normally apne scheduled time par login karna hai.
 
-WEB2 AND WEB3 update kar dia gaya hai only 2 pair at a time aap kar sakte hai. Booking se pehle daily around 7:30 ya fir 9:30 pure din me ek baar apko ticket me jakar check ip chrome and check ip edge karna hai jisko karne par ek window open hogi usme apko manually irctc id se payment tak jana hai payment par jate hi window me message show hoga ip check sucesssfull uske baad web2 ya web3 login kar dena hai.Note only slot 1 and 2 hi work hoga and only 2 pair hi honge.
+**Important:** RailOne APK open karne se pehle hamesha **Clear Data** aur **Clear Cache** zaroor karein. Aap APK ka Clear Data aur Clear Cache pehle kabhi bhi kar sakte hain, lekin APK ko open **58 ya uske baad hi** karna hai.
 
-JIOPAYUPI use na kare site ne kuch update dia hai next update me gateway fix kar dia jayega.
-Apse request hai niche diye hue news ko dhyan se padhe.
+Jab aapka pair **“Wait for PG”** par 58 par jaye, tab RailOne APK mobile me open karein. Wahan apni ID enter karein aur **Connect** kar dein. Dhyan rahe, 10 ya 11 baje se pehle APK open aur connected ho jana chahiye.
+
+Finally, jab dono RailOne pairs **“Countdown”** par aa jayein, tab **“Fix IP Error”** par click karein. Jaise hi APK restart ho, turant apni ID enter karke **Connect** kar dein.
+
+Is process ko follow karne se IP block nahi hoga.
+
+
