@@ -1,5 +1,8 @@
 true####
 
+ap agar pehle ki tarah token get karke software use karna chahte hai to wo bhi kar sakte hai pehle apk me store token button karke token banaye aur software me token get kar de uske baad booking kare bina koi live token gen open kare ya apk connect kare.
+Token under 30 minutes hi banaye.
+
 **For RailOne Users**
 
 RailOne login ab bina token ke kiya ja sakta hai. Aapko normally apne scheduled time par login karna hai.
